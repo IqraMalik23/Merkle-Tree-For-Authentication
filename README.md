@@ -1,5 +1,5 @@
 # Merkle-Tree-For-Authentication
-```markdown
+
 ## Overview
 This project presents a **web-based graphical password authentication system** that replaces traditional text-based passwords with a more interactive and visual approach. Users can authenticate using images or patterns, providing a secure and innovative alternative to logging in with text passwords.
 
@@ -105,5 +105,3 @@ For any questions, issues, or suggestions, please reach out via GitHub Issues or
 
 **Built with security and innovation in mind! 🚀**
 ```
-
----
