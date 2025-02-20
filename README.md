@@ -56,7 +56,7 @@ Graphical-Password-Authentication-Prototype/
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/graphical-password-auth.git
+    git clone https://github.com/IqraMalik23/Merkle-Tree-For-Authentication.git
     ```
 
 2. **Move the project to your XAMPP `htdocs` folder:**
