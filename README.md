@@ -26,26 +26,6 @@ This project presents a **web-based graphical password authentication system** t
 ### Database
 - **MySQL**: Used to store user authentication data and credentials securely.
 
-## Project Structure 📂
-
-```
-Graphical-Password-Authentication-Prototype/
-│-- index.html              # Main UI for login/signup
-│-- register.html           # User registration page
-│-- login.html              # Login page
-│-- css/
-│   ├── index.css          # Main styles
-│   ├── hstyle.css         # Header styling
-│   ├── stylee.css         # Additional styles
-│-- js/
-│   ├── main.js            # Client-side authentication logic
-│-- php/
-│   ├── auth_handler.php   # Handles authentication logic
-│   ├── logout.php         # Manages user logout
-│   ├── db_conn.php        # Database connection setup
-│   ├── setup_database.php # Script to initialize the database
-```
-
 ## Installation Guide ⚙️
 
 ### Prerequisites
